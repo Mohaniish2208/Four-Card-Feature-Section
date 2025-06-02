@@ -26,14 +26,14 @@ Users should be able to:
 
 ### Screenshot
 
-![Final-Product](design/Final Screenshot.png)
+![Final Product](Final-Screenshot.png)
 
-Four card feature section showing Supervisor, Team Builder, Karma, and Calculator cards arranged in a grid on a clean white background. Each card contains an icon, a heading, and a short description: Supervisor monitors activity to identify project roadblocks, Team Builder scans our talent network to create the optimal team for your project, Karma regularly evaluates our talent to ensure quality, Calculator uses data from past projects to provide better delivery estimates. The page header reads Reliable efficient delivery Powered by Technology. The overall tone is professional and modern.
+Four card feature section showing **Supervisor**, **Team Builder**, **Karma**, and **Calculator** cards arranged in a grid on a clean white background. Each card contains an icon, a heading, and a short description: Supervisor monitors activity to identify project roadblocks, Team Builder scans our talent network to create the optimal team for your project, Karma regularly evaluates our talent to ensure quality, Calculator uses data from past projects to provide better delivery estimates. The page header reads Reliable efficient delivery Powered by Technology. The overall tone is professional and modern.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://your-solution-url.com)
+- Live Site URL: [Live Site](https://mohaniish2208.github.io/Four-Card-Feature-Section/)
 
 ## My process
 

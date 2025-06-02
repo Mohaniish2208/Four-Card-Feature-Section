@@ -11,20 +11,22 @@
 }
 
 .lightHead{
+    color: hsl(234, 12%, 34%);
     font-weight: 200;
     margin-bottom: 0;
     opacity: 0.5;
 }
 
 .heavyHead{
+    color: hsl(234, 12%, 34%);
     font-weight: 600;
     margin-top: 0;
 }
 
 .introPara{
+    color: hsl(234, 12%, 34%);
     font-size: 15px;
     max-width: 520px;
-    opacity: 0.4;
     margin: 0 auto 3rem;
     padding: 0 1rem; 
     text-align: center;
@@ -86,6 +88,6 @@
     position: absolute;
     bottom: 2.3em;
     right: 1.5em;
-    height: 3em;
+    height: 3.5em;
     width: auto;
 }
