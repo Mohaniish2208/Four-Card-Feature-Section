@@ -26,15 +26,9 @@ Users should be able to:
 
 ### Screenshot
 
-![Final-Product](Final Screenshot.png)
+![Final-Product](design/Final Screenshot.png)
 
 Four card feature section showing Supervisor, Team Builder, Karma, and Calculator cards arranged in a grid on a clean white background. Each card contains an icon, a heading, and a short description: Supervisor monitors activity to identify project roadblocks, Team Builder scans our talent network to create the optimal team for your project, Karma regularly evaluates our talent to ensure quality, Calculator uses data from past projects to provide better delivery estimates. The page header reads Reliable efficient delivery Powered by Technology. The overall tone is professional and modern.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
 
