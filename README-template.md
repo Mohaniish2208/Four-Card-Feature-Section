@@ -16,8 +16,6 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -28,9 +26,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Final-Product](Final Screenshot.png)
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
+Four card feature section showing Supervisor, Team Builder, Karma, and Calculator cards arranged in a grid on a clean white background. Each card contains an icon, a heading, and a short description: Supervisor monitors activity to identify project roadblocks, Team Builder scans our talent network to create the optimal team for your project, Karma regularly evaluates our talent to ensure quality, Calculator uses data from past projects to provide better delivery estimates. The page header reads Reliable efficient delivery Powered by Technology. The overall tone is professional and modern.
 
 Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
 
@@ -65,22 +63,41 @@ Use this section to recap over some of your major learnings while working throug
 To see how you can add code snippets, see below:
 
 ```html
-<h1>Some HTML code I'm proud of</h1>
+ <section class="masterContainer">
+      <section class="containerS">
+        <h3 class="super">Supervisor</h3>
+        <p class="sPara">Monitors activity to identify project roadblocks</p>
+        <img class="imgS" src="images/icon-supervisor.svg" alt="supervisor img">
+      </section>
+
+      <section class="jointContainer">
+        <section class="containerT">
+          <h3 class="team">Team Builder</h3>
+          <p class="tPara">Scans our talent network to create the optimal team for your project</p>
+          <img class="imgT" src="images/icon-team-builder.svg" alt="team img">
+        </section>
+
+        <section class="containerK">
+          <h3 class="karma">Karma</h3>
+          <p class="kPara">Regularly evaluates our talent to ensure quality</p>
+          <img class="imgK" src="images/icon-karma.svg" alt="karma img">
+        </section>
+      </section>
+
+      <section class="containerC">
+        <h3 class="calc">Calculator</h3>
+        <p class="cPara">Uses data from past projects to provide better delivery estimates</p>
+        <img class="imgC" src="images/icon-calculator.svg" alt="calculator img">
+      </section>
+    </section>
 ```
+Handled multiple sections (representing 4 cards).
+
 ```css
 .proud-of-this-css {
   color: papayawhip;
 }
 ```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
 
 ### Continued development
 
@@ -95,11 +112,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+- Frontend Mentor - [@Mohaniish2208](https://www.frontendmentor.io/profile/Mohaniish2208)
 
 ## Acknowledgments
 

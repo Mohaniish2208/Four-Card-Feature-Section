@@ -1,6 +1,7 @@
 .container{
     font-family: "Poppins";
     width: 100vw;
+    height: 100vh;
 }
 
 .lightHead, .heavyHead, .introPara, .jointContainer{
